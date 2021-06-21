@@ -22,17 +22,19 @@
                             <h2 class="flex items-baseline justify-center mt-5"> Start up pack for a free lancer with a small firm. Package comes with;</h2>
                             <p class="my-4 text-base leading-relaxed ">
 
-                               <ul class="list-disc">
+                               <ul class="list-disc list-outside">
                                    <li>free domain name</li>
                                    <li>free updates every fortnight</li>
                                    <li>Money back guarantee</li>
                                    <li>free Content Creation</li>
                                    </ul>
                                    </p>
+                                   <a href="/Pricing">
                             <button
                                 class="flex items-center px-8 py-3 mx-auto mt-6 font-semibold text-white transition duration-500 ease-in-out transform bg-black rounded-lg hover:bg-gray-800 hover:to-black focus:shadow-outline focus:outline-none focus:ring-2 ring-offset-current ring-offset-2">
                                 SEE MORE
                             </button>
+                            </a>
                         </div>
                     </div>
                 </div>
